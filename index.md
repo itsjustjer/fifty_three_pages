@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: fifty three pages build example
 ---
 
 This is an "improvement" I am implementing. 
